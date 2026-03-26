@@ -41,18 +41,7 @@ Instead of manually logging data, users can simply type:
       Savings potential
       Financial health
 6.Generates a complete Financial Audit Report
-# #Installation & Setup
-1. Clone the Repository
-git clone https://github.com/your-username/strategic-financial-advisor.git
-cd strategic-financial-advisor
-2. Requirements
-This project uses only built-in Python libraries:
-math
-re
-datetime
-No external dependencies required.
-3. Run the Program
-python advisor.py
+
 ## How to Use
 Step 1: Enter Your Details
 Full Name: John Doe
